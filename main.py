@@ -24,4 +24,4 @@
 # Escopo: 1 arquivo (main.py), 1 linha de codigo, saida "Hello, World!".
 # Sem dependencias, sem configuracao extra, sem outros arquivos.
 
-print("Hello, World!")
+print("ola, Mundo!")  # Esta linha imprime a mensagem "Hello, World!" no terminal.
