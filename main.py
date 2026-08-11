@@ -25,3 +25,4 @@
 # Sem dependencias, sem configuracao extra, sem outros arquivos.
 
 print("ola, Mundo!")  # Esta linha imprime a mensagem "Hello, World!" no terminal.
+print("fim")  # Esta linha imprime uma linha em branco no terminal.
